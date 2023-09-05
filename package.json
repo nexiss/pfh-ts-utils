@@ -1,0 +1,13 @@
+{
+  "name": "pfh-ts-utils",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*",
+      "playground/*"
+    ]
+  },
+  "devDependencies": {
+    "prettier": "^3.0.3"
+  }
+}
